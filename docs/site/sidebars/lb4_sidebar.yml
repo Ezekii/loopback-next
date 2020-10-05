@@ -251,7 +251,7 @@ children:
         url: Using-openapi-to-graphql.html
         output: 'web, pdf'
 
-  - title: 'Building frontend application from LoopBack'
+  - title: 'Building frontend applications'
     output: 'web, pdf'
     children:
       - title: 'Building an Angular Application from OpenAPI Specification'

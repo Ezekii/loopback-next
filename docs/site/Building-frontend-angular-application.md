@@ -27,8 +27,6 @@ npm install -g @angular/cli
 You can check out [Angular documentation](https://angular.io/docs) for more
 details.
 
-2. Install [Angular CLI](npm install -g @angular/cli) by running
-
 ## Step 1: Generate the OpenAPI specification from the LoopBack application
 
 The OpenAPI spec from a LoopBack application can be obtained by starting the
