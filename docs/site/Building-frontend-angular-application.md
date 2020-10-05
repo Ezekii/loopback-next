@@ -8,8 +8,9 @@ permalink: /doc/en/lb4/Building-frontend-angular-application.html
 ---
 
 After a LoopBack application with REST APIs is created, the OpenAPI
-specification can be used to generate an Angular application using
-[ng-openapi-gen](https://www.npmjs.com/package/ng-openapi-gen) Node.js module.
+specification can be used to generate the models and web client in an Angular
+application using [ng-openapi-gen](https://www.npmjs.com/package/ng-openapi-gen)
+Node.js module.
 
 Here are the steps:
 
